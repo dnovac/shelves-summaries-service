@@ -1,2 +1,2 @@
 # shelves-summaries-service
-Manage book summaries
+Manage books & books summaries
